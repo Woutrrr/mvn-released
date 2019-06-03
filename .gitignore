@@ -1,0 +1,9 @@
+
+# Linux backup files
+*~
+
+# Maven
+target/
+
+# Index data
+index-data/
