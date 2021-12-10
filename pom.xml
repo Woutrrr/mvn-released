@@ -9,7 +9,7 @@
     <version>1.0</version>
 
     <properties>
-        <log4j.version>2.11.1</log4j.version>
+        <log4j.version>2.15.0</log4j.version>
         <wagon.version>2.12</wagon.version>
     </properties>
 
